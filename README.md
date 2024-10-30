@@ -11,10 +11,16 @@ Soy desarrollador **Full Stack** con casi 3 años y medio de experiencia en tecn
 - 🚧 [Mi Portafolio Personal con Framework (En Construcción)](https://cristiandeveloper20.github.io/portafolio-framework/) - 🔧 En proceso de construcción, este portafolio empleará Vue.js para resaltar mis habilidades en frameworks, mostrando proyectos avanzados y componentes reutilizables.
 
 - 📦 **Sistema de Gestión de Inventario en PHP y Laravel** - Desarrollé una aplicación modular para la gestión de inventarios, utilizando Laravel como API y Vue.js en el frontend. Este sistema permite una gestión eficiente de productos y mejora la escalabilidad.
+  
+  > *Nota: Este proyecto es privado, por lo que no es posible visualizar el código directamente.*
 
 - ☁️ **Integración de AWS con Laravel** - Configuración de **AWS S3** para almacenamiento seguro de archivos y **AWS SES** para la gestión de correos electrónicos (confirmación de cuenta, recuperación de contraseña, etc.), integrando estos servicios directamente en una aplicación Laravel.
+  
+  > *Nota: Este proyecto es privado y no está disponible para visualización pública.*
 
 - 🎮 **Desarrollo en Unreal Engine** - Experiencia en la creación de juegos interactivos en Unreal Engine, aplicado en proyectos tanto para la industria de entretenimiento como para una fundación dedicada a niños con discapacidad motriz. Lideré un equipo de desarrolladores y practicantes en ambos proyectos.
+  
+  > *Nota: Debido a la naturaleza privada de estos proyectos, no es posible acceder al código ni a la visualización pública.*
 
 
 ---
