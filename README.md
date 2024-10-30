@@ -6,11 +6,16 @@ Soy desarrollador **Full Stack** con casi 3 años y medio de experiencia en tecn
 
 ### 🚀 Proyectos Destacados
 
-- [Mi Portafolio Personal Nativo](https://cristiandeveloper20.github.io/portafolio-nativo/) - Una muestra de mis proyectos y experiencia de forma nativa.
-- [Mi Portafolio Personal con Framework](https://cristiandeveloper20.github.io/portafolio-framework/) - Una muestra de mis proyectos y experiencia utilizando el framework Vue.
-- **Sistema de Gestión de Inventario en PHP LARAVEL** - Desarrollo de una aplicación para la gestión de inventarios, con diseño modular en Laravel como api y Vue para el frontend.
-- **Integración de AWS con Laravel** - Configuración de **AWS S3** para subida de archivos y **AWS SES** para el envío de correos.
-- **Desarrollo en Unreal Engine** - Experiencia en el desarrollo de juegos interactivos, aplicados en proyectos para la industria de entretenimiento y para una fundación de niños con discapacidad motriz.
+- 🚧 [Mi Portafolio Personal Nativo (En Construcción)](https://cristiandeveloper20.github.io/portafolio-nativo/) - 🔨 Este portafolio en desarrollo mostrará mis proyectos y experiencia sin frameworks, utilizando HTML, CSS y JavaScript para una experiencia pura y optimizada.
+
+- 🚧 [Mi Portafolio Personal con Framework (En Construcción)](https://cristiandeveloper20.github.io/portafolio-framework/) - 🔧 En proceso de construcción, este portafolio empleará Vue.js para resaltar mis habilidades en frameworks, mostrando proyectos avanzados y componentes reutilizables.
+
+- 📦 **Sistema de Gestión de Inventario en PHP y Laravel** - Desarrollé una aplicación modular para la gestión de inventarios, utilizando Laravel como API y Vue.js en el frontend. Este sistema permite una gestión eficiente de productos y mejora la escalabilidad.
+
+- ☁️ **Integración de AWS con Laravel** - Configuración de **AWS S3** para almacenamiento seguro de archivos y **AWS SES** para la gestión de correos electrónicos (confirmación de cuenta, recuperación de contraseña, etc.), integrando estos servicios directamente en una aplicación Laravel.
+
+- 🎮 **Desarrollo en Unreal Engine** - Experiencia en la creación de juegos interactivos en Unreal Engine, aplicado en proyectos tanto para la industria de entretenimiento como para una fundación dedicada a niños con discapacidad motriz. Lideré un equipo de desarrolladores y practicantes en ambos proyectos.
+
 
 ---
 
