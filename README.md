@@ -22,6 +22,8 @@ Soy desarrollador **Full Stack** con casi 3 años y medio de experiencia en tecn
   
   > *Nota: Debido a la naturaleza privada de estos proyectos, no es posible acceder al código ni a la visualización pública.*
 
+- 🚀 Desarrollo de Tienda en Shopify - Realicé una tienda en línea para un cliente utilizando Shopify, configurando la estructura de productos, personalizando el tema para adaptarse a las necesidades del cliente y optimizando la experiencia de usuario para mejorar las ventas. Esta experiencia me permitió profundizar en la integración y personalización de Shopify para e-commerce.
+
 
 ---
 
