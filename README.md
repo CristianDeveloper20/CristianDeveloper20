@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Cristian Fernando Cruz Usme
 
-Soy **Ingeniero de Software** con casi 3 años y medio de experiencia como desarrollador **Full Stack** en tecnologías como **Vue.js**, **Laravel**,**JavaScript** **AWS**, entre otros. Mi enfoque está en la creación de aplicaciones escalables, con buenas prácticas de desarrollo y código legible. He trabajado en proyectos de diversa índole, desde aplicaciones web hasta desarrollos en **Unreal Engine**. Además, cuento con experiencia liderando equipos de desarrollo en proyectos colaborativos y en la aplicación de principios SOLID y metodologías ágiles.
+Soy **Ingeniero de Software** con casi 3 años y medio de experiencia como desarrollador **Full Stack** en tecnologías como **Vue.js**, **Laravel**, **JavaScript**, **AWS**, entre otros. Mi enfoque está en la creación de aplicaciones escalables, con buenas prácticas de desarrollo y código legible. He trabajado en proyectos de diversa índole, desde aplicaciones web hasta desarrollos en **Unreal Engine**. Además, cuento con experiencia liderando equipos de desarrollo en proyectos colaborativos y en la aplicación de principios SOLID y metodologías ágiles.
 
 ---
 
