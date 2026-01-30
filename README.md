@@ -1,74 +1,164 @@
-# 👋 ¡Hola! Soy Cristian Fernando Cruz Usme
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-Soy **Ingeniero de Software** con casi 3 años y medio de experiencia como desarrollador **Full Stack** en tecnologías como **Vue.js**, **Laravel**, **JavaScript**, **AWS**, entre otros. Mi enfoque está en la creación de aplicaciones escalables, con buenas prácticas de desarrollo y código legible. He trabajado en proyectos de diversa índole, desde aplicaciones web hasta desarrollos en **Unreal Engine**. Además, cuento con experiencia liderando equipos de desarrollo en proyectos colaborativos y en la aplicación de principios SOLID y metodologías ágiles.
+<div align="center">
+  
+# 👨‍💻 Cristian Fernando Cruz Usme
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+de+Software;Full+Stack+Developer;L%C3%ADder+T%C3%A9cnico;5+a%C3%B1os+de+experiencia)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/cristian-fernando-cruz-usme-21014828a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cristianfernandocruzusme@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/CristianDeveloper20">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=CristianDeveloper20&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+
+</div>
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🚀 Sobre Mí
 
-- 🚧 [Mi Portafolio Personal Nativo (En Construcción)](https://cristiandeveloper20.github.io/portafolio-nativo/) - 🔨 Este portafolio en desarrollo mostrará mis proyectos y experiencia sin frameworks, utilizando HTML, CSS y JavaScript para una experiencia pura y optimizada.
+```javascript
+const cristian = {
+    ubicación: "Medellín, Colombia 🇨🇴",
+    rol: "Full Stack Developer & Líder Técnico",
+    experiencia: "5 años (3+ empresas, 1.5+ freelance)",
+    trabajoActual: "Touris S.A.S",
+    disponible: true
+};
+```
 
-- 🚧 [Mi Portafolio Personal con Framework (En Construcción)](https://cristiandeveloper20.github.io/portafolio-framework/) - 🔧 En proceso de construcción, este portafolio empleará Vue.js para resaltar mis habilidades en frameworks, mostrando proyectos avanzados y componentes reutilizables.
-
-- 📦 **Sistema de Gestión de Inventario en PHP y Laravel** - Desarrollé una aplicación modular para la gestión de inventarios, utilizando Laravel como API y Vue.js en el frontend. Este sistema permite una gestión eficiente de productos y mejora la escalabilidad.
-  
-  > *Nota: Este proyecto es privado, por lo que no es posible visualizar el código directamente.*
-
-- ☁️ **Integración de AWS con Laravel** - Configuración de **AWS S3** para almacenamiento seguro de archivos y **AWS SES** para la gestión de correos electrónicos (confirmación de cuenta, recuperación de contraseña, etc.), integrando estos servicios directamente en una aplicación Laravel.
-  
-  > *Nota: Este proyecto es privado y no está disponible para visualización pública.*
-
-- 🎮 **Desarrollo en Unreal Engine** - Experiencia en la creación de juegos interactivos en Unreal Engine, aplicado en proyectos tanto para la industria de entretenimiento como para una fundación dedicada a niños con discapacidad motriz. Lideré un equipo de desarrolladores y practicantes en ambos proyectos.
-  
-  > *Nota: Debido a la naturaleza privada de estos proyectos, no es posible acceder al código ni a la visualización pública.*
-
-- 🚀 Desarrollo de Tienda en Shopify - Realicé una tienda en línea para un cliente utilizando Shopify, configurando la estructura de productos, personalizando el tema para adaptarse a las necesidades del cliente y optimizando la experiencia de usuario para mejorar las ventas. Esta experiencia me permitió profundizar en la integración y personalización de Shopify para e-commerce.
-
+> 💡 Especializado en desarrollo de aplicaciones web escalables, sistemas empresariales y juegos interactivos con Unreal Engine. Apasionado por la arquitectura de software, CI/CD y liderazgo de equipos multidisciplinarios.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 💼 Experiencia Profesional
 
-- **Lenguajes de Programación**: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+<table>
+<tr>
+<td width="50%">
 
-- **Backend**: 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-- **Frontend**: 
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+### 🏢 Touris S.A.S
+**Full Stack Developer / Líder Técnico**  
+`Jun 2024 - Presente`
 
-- **Bases de Datos**: 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white&style=flat)
+- Desarrollo con Vue.js, Laravel e Inertia
+- Revisión de PRs y optimización de código PHP
+- Mejora de rendimiento y escalabilidad
 
-- **Herramientas y CI/CD**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?logo=unreal-engine&logoColor=white&style=flat)
+</td>
+<td width="50%">
 
-- **Metodologías**:
-  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat)
-  ![Agile](https://img.shields.io/badge/-Agile-FF3E00?logo=agile&logoColor=white&style=flat)  
-- [![Certificación en Metodologías Ágiles](https://img.shields.io/badge/Certificación-Metodologías_Ágiles-blue?style=flat&logo=google-classroom)](https://github.com/CristianDeveloper20/CristianDeveloper20/blob/main/Cetidifcado.pdf)
+### 🏛️ Proyecto SIRE - Alcaldía de Medellín
+**Líder Técnico & Arquitecto**  
+`Nov 2024 - Dic 2025`
+
+- Sistema de gestión de riesgo (DAGRD)
+- Definición de stack, modelo de BD y CI/CD
+- Coordinación de equipo y cronogramas
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Kubico S.A.S
+**Desarrollador Jr / Líder de Proyecto**  
+`Oct 2022 - Abr 2024`
+
+- Juegos interactivos con Unreal Engine
+- VR educativo para niños con discapacidades
+- Automatización con Python (extracción de PDFs)
+
+</td>
+<td width="50%">
+
+### 💻 Freelance
+**Full Stack Developer**  
+`2023 - Presente`
+
+- Proyectos E-commerce completos
+- Shopify y WordPress
+- Gestión de equipos ampliados
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 Estadísticas
+## 🛠️ Tech Stack
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianDeveloper20&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDeveloper20&layout=compact&theme=dark)
+<div align="center">
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Otros
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
 
 ---
 
-### 🌐 Conéctate Conmigo
+## 🌟 Proyectos Destacados
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/cristian-fernando-cruz-usme-21014828a/)
+<div align="center">
 
+| 🔗 Proyecto | 📝 Descripción | 🛠️ Tech |
+|:-----------:|:--------------|:-------:|
+| [**Touris**](https://touris.co) | Plataforma de turismo | Vue.js + Laravel |
+| [**SIRE**](https://sire.dagrd.gov.co) | Sistema de gestión de riesgo - Alcaldía de Medellín | Node.js + React |
+| [**PandoraIn**](https://pandorain.com) | Plataforma web empresarial | Laravel + Vue.js |
+| [**So You**](https://soyou.com.co) | E-commerce de moda | Laravel + Inertia |
+| [**Luz Amado**](https://luzamado.com) | Sitio web corporativo | WordPress |
+| [**Casta Bags**](https://castabags.com) | Tienda online de bolsos | Shopify |
+| [**Saikuru**](https://saikuru.co) | Plataforma digital | Vue.js + Laravel |
+| [**Natulpas**](https://natulpas.com) | E-commerce natural | Shopify |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 ¿Tienes un proyecto en mente?
+
+<p>¡Hablemos! Estoy disponible para proyectos freelance y oportunidades laborales.</p>
+
+[![Email](https://img.shields.io/badge/Contáctame-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianfernandocruzusme@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
