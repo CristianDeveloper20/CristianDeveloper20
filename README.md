@@ -61,7 +61,7 @@ const cristian = {
 **Líder Técnico & Arquitecto**  
 `Nov 2024 - Dic 2025`
 
-- Sistema de gestión de riesgo (DAGRD)
+- Sistema de Información para la Gestión del Riesgo de Desastres de Medellín (SIRMED)
 - Definición de stack, modelo de BD y CI/CD
 - Coordinación de equipo y cronogramas
 
@@ -140,12 +140,15 @@ const cristian = {
 |:-----------:|:--------------|:-------:|
 | [**Touris**](https://touris.co) | Plataforma de turismo | Vue.js + Laravel |
 | [**SIRE**](https://sire.dagrd.gov.co) | Sistema de gestión de riesgo - Alcaldía de Medellín | Node.js + React |
-| [**PandoraIn**](https://pandorain.com) | Plataforma web empresarial | Laravel + Vue.js |
-| [**So You**](https://soyou.com.co) | E-commerce de moda | Laravel + Inertia |
-| [**Luz Amado**](https://luzamado.com) | Sitio web corporativo | WordPress |
-| [**Casta Bags**](https://castabags.com) | Tienda online de bolsos | Shopify |
-| [**Saikuru**](https://saikuru.co) | Plataforma digital | Vue.js + Laravel |
-| [**Natulpas**](https://natulpas.com) | E-commerce natural | Shopify |
+| [**SALMO**](https://sapl.salmoltda.com.co/login) | Plataforma de gestión de servicios | Vue.js + Laravel |
+| [**Casa Pluma**](https://gualteros.cloud/login) | Plataforma de gestión de ventas y despacho | Vue.js + Laravel |
+| [**Casa Pluma**](https://casaplumastore.com/) | E-commerce de lencería para el hogar | Vue.js + Laravel |
+| [**PandoraIn**](https://pandorain.co/en) | E-commerce de lencería | Shopify |
+| [**So You**](https://soyou.com.co) | E-commerce de moda | Shopify |
+| [**Luz Amado**](https://www.luzamado.com) | Sitio web corporativo | WordPress |
+| [**Casta Bags**](https://castabags.com) | Tienda online de bolsos | WordPress |
+| [**Saikuru**](https://saikuru.co) | Plataforma digital | WordPress |
+| [**Natulpas**](https://natulpas.com) | E-commerce natural | Wix |
 
 </div>
 
